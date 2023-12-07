@@ -1,0 +1,115 @@
+{
+    "fugitives" : [
+        {
+            "id": 1,
+            "name": "Shia Lebouf",
+            "height": "5'9",
+            "crime": "Public drunkenness, disorderly conduct and obstruction.",
+            "image": "./assets/shialebouf.jpeg",
+            "reward": "$2 million",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": false,
+            "poster": "./assets/shiawanted.jpeg"
+            
+        },
+        {
+            "id": 2,
+            "name": "Lindsay Lohan",
+            "height": "5'5",
+            "crime": "DUI charges for alcohol, possession of cocaine, transporting a narcotic into a custody facility and driving on a suspended license.",
+            "image": "./assets/lindsaylohan.jpeg",
+            "reward": "$5 million",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/lindsaywanted.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Foxy Brown",
+            "height": "5'2",
+            "crime": "Attack of two manicurists at a Manhattan nail salon during an argument over payment.",
+            "image": "./assets/foxybrown.jpeg",
+            "reward": "$250,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/foxywanted.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Matthew McConaughey",
+            "height": "6'0",
+            "crime": "Noise Complaint: dancing naked with some bongo drums + marijuana bong on the coffee table.",
+            "image": "./assets/matthewmcconaughey.jpeg",
+            "reward": "$250,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": false,
+            "poster": "./assets/matthewwanted.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Ozzy Osbourne",
+            "height": "5'10",
+            "crime": "Public intoxication.",
+            "image": "./assets/ozzyosbourne.jpeg",
+            "reward": "$250,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/ozzywanted.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Robert Downey Jr.",
+            "height": "5'8",
+            "crime": "Possession of heroin, cocaine and an unloaded .357-caliber Magnum.",
+            "image": "./assets/robertdowney.jpeg",
+            "reward": "$400,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/robertwanted.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Jane Fonda",
+            "height": "5'8",
+            "crime": "Drug smuggling.",
+            "image": "./assets/janefonda.jpeg",
+            "reward": "$100,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/janewanted.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Bill Gates",
+            "height": "5'10",
+            "crime": "Traffic Violation.",
+            "image": "./assets/billgates.jpeg",
+            "reward": "$10 Million",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": false,
+            "poster": "./assets/billwanted.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Vince Vaughn",
+            "height": "6'5",
+            "crime": "Driving under influence.",
+            "image": "./assets/vincevaughn.jpeg",
+            "reward": "$250,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": true,
+            "poster": "./assets/vincewanted.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Justin Beiber",
+            "height": "5'9",
+            "crime": "Driving under the influence, driving with an expired license, and resisting arrest while drag racing.",
+            "image": "./assets/justinbeiber.jpeg",
+            "reward": "$250,000",
+            "field_contact": "1-800-CALLFBI (1-800-225-5324)",
+            "armed_and_dangerous": false,
+            "poster": "./assets/justinwanted.jpeg"
+        }
+    ]
+}
